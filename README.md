@@ -1,11 +1,17 @@
 # data-portfolio
 Personal data portfolio showcasing SQL projects and Power BI dashboards.
+
+* Project #1: NYC Motor Vehicle Collisions Analysis (April 2021-July 2022)
 ** Tools: SQL, Power BI
 ** Data source: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data
 
 ### Key Highlights:
-- Analyzed patterns of collisions using SQL
-- Built an interactive Power BI dashboard (pdf below)
-- Key finding: Most crashes occur in September and at 5 PM
+- September, March December and July exceed monthly average of collisions per month
+- 9pm is peak hour for collisions
+- Top contributing factor in collisions is Driver Inattention/Distraction
+- Most Accident-prone vehicle types: Sedan, SUV, Taxi
+- Brooklyn has the highest number of both injuries and accidents while Staten Island has the least impact
 
-- (View Power BI Dashboard PDF) [Nyc%20Crash%20Analysis(Power%20BI).pdf)
+#### Files:
+- View Power BI Dashboard PDF in the file above (Nyc Crash Analysis(Power BI).pdf)
+  
