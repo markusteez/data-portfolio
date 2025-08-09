@@ -8,4 +8,4 @@ Personal data portfolio showcasing SQL projects and Power BI dashboards.
 - Built an interactive Power BI dashboard (pdf below)
 - Key finding: Most crashes occur in September and at 5 PM
 
-- (View Power BI Dashboard PDF) Nyc Crash Analysis(Power BI).pdf
+- (View Power BI Dashboard PDF) [Nyc%20Crash%20Analysis(Power%20BI).pdf)
