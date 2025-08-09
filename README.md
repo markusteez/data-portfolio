@@ -2,8 +2,8 @@
 Personal data portfolio showcasing SQL projects and Power BI dashboards.
 
 ### Project #1: NYC Motor Vehicle Collisions Analysis (April 2021-July 2022)
-Tools: SQL, Power BI
-Data source: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data
+- Tools: SQL, Power BI
+- Data source: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data
 
 ### Key Highlights:
 - September, March December and July exceed monthly average of collisions per month
